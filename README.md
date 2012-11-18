@@ -18,6 +18,10 @@ Windows XPで.NET Frameworkがインストールされていない場合は以�
 /Tetris.exe  
 exeファイルを起動する事でゲームが始まります。
 
+画像イメージ
+------
+* ![画像1](http://cdn-ak.f.st-hatena.com/images/fotolife/p/powerbombkun/20121118/20121118131648.png?1353212220 "画像のタイトル")
+
 遊び方
 ------
 ゲーム中のキーを使ってのブロック操作は以下です。
