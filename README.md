@@ -9,14 +9,21 @@ Tetris
 
 インストール
 ------
-アプリはWindows環境で.NET Framework 2.0以降がインストールされていれば動作します。  
-Windows Vista,7はインストール不要です。  
-Windows XPで.NET Frameworkがインストールされていない場合は以下のパスからインストールしてください。
-- [http://www.microsoft.com/ja-jp/download/details.aspx?id=21](http://www.microsoft.com/ja-jp/download/details.aspx?id=21)
+アプリはWindows,MacのOSで動作します。
+- Windows  
+  .NET Framework 2.0以降がインストールされていれば動作します。  
+  Windows Vista,7はインストール不要です。  
+  Windows XPで.NET Frameworkがインストールされていない場合は以下のパスからインストールしてください。  
+  [http://www.microsoft.com/ja-jp/download/details.aspx?id=21](http://www.microsoft.com/ja-jp/download/details.aspx?id=21)  
+  Tetris.exeを実行する事でアプリが起動します。    
 
-アプリケーションは以下のパスに置いてあります。  
-/Tetris.exe  
-exeファイルを起動する事でゲームが始まります。
+- Mac  
+  Monoがインストールされていれば動作します。  
+  インストールされていない場合は以下のパスからダウンロードし、インストールしてください。  
+  [http://www.go-mono.com/mono-downloads/download.html](http://www.go-mono.com/mono-downloads/download.html)  
+  インストールしたらコマンドプロンプトを起動し、Tetris.exeがあるディレクトリに移動し以下のコマンドを実行する事でアプリが起動します。    
+  mono Tetris.exe  
+  ※初回起動は少し時間がかかります。  
 
 画像イメージ
 ------
